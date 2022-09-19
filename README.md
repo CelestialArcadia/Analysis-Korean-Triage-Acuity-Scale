@@ -1,2 +1,12 @@
 # Analysis-Korean-Triage-Acuity-Scale
 An analysis over the effectiveness of the Korean Triage And Acuity Scale
+
+## Introduction
+
+As the emergency department (ED) utilization rate increases worldwide, it is imperative to reduce patient overcrowding, to ensure patient safety and to improve the efficiency of emergency care [1]. Triage was introduced to enhance the quality of emergency care by reducing the length of stay of patients and is now applied to EDs
+
+## Statement
+
+Triage is the process of determining the priority of patient treatment using an internationally recognized 5-level triage system [2]. The best-known triage scales are the Emergency Severity Index (ESI) in the USA, the Canadian Triage and Acuity Scales (CTAS) in Canada, the Australian Triage Scale (ATS) in Australia, and the Manchester Triage Scale in the UK [2,3]. As triage scales should be matched to the specific medical environment in which they are used, the application of a triage scale developed for one country should be approached with caution when applied to another country. Recently, some countries have devised systems that modify major triage scales to suit their medical environment [3]. In Korea, 97.1% of tertiary hospitals and regional emergency medical centers used triage in 2012, along with various tools such as CTAS, ESI, ATS, and a triage scale based on the Korean Emergency Medical Service Act [4]. Substantial communication difficulties among EDs arose owing to variations in triage scales among centers [4]. The need for a standardized triage system has increased and the Korean Triage and Acuity Scales (KTAS) based on the CTAS was developed and has been used nationwide since 2016 [5].
+
+Triage in the ED is the process of rapidly assessing patients, determining who should receive treatment first, and allocating medical resources according to priority [3]. Accurate triage is a way of ensuring patient safety and reducing ED crowding, but mistriage extends length of stay in the ED and increases patient mortality [6,7]. Overtriage is an overestimation of patients with low severity conditions, resulting in increased resource consumption, ED overcrowding, and increased length of stay, ultimately leading to a lack of medical resources in the ED. [8, 9]. Therefore, evaluating the accuracy of triage and assessing the causes of mistriage is essential for improving patient safety and the quality of emergency care.
